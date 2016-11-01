@@ -17,6 +17,11 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# We don't want to upload visual studio files
+.sln
+.db
+.vs
+
 # =========================
 # Operating System Files
 # =========================
