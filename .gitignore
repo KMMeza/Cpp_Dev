@@ -64,3 +64,4 @@ Debug/Week_1.exe
 *.idb
 *.vcxproj
 Week2/Week2.vcxproj.filters
+*.opendb
