@@ -55,3 +55,12 @@ Week2\Debug\*.*
 Network Trash Folder
 Temporary Items
 .apdisk
+*.ilk
+Debug/Week_1.exe
+*.pdb
+*.obj
+*.tlog
+*.log
+*.idb
+*.vcxproj
+Week2/Week2.vcxproj.filters
