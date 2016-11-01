@@ -18,9 +18,14 @@ $RECYCLE.BIN/
 *.lnk
 
 # We don't want to upload visual studio files
-.sln
-.db
-.vs
+*.sln
+*.db
+*.vs
+Debug\*.*
+*.cod
+Week2\Debug\*.obj
+Week2\Debug\*.*
+
 
 # =========================
 # Operating System Files
